@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p></p>
+                    <p>Security Cleared with over fifteen years in Business Analysis, QA, and testing. Coding is a passion of mine, I have started to code more vigorously to become a Developer. A background in Science and Software Engineering has given me a great perspective on how to test and hence the need for great clean test-driven code. Eight plus year’s experience in Agile, from setting up agile as a Greenfield project to acting as Scrum Master. Strong communication skills, alongside a passion for learning and environment improvement.  Active in volunteering skills for not-for profit organisations, along with continual education and qualifications.  Passionate about Web technologies in particular JavaScript Python Ruby and Java swift for mobile applications </p>
                     <p></p>
                     </div>
                 </div>
@@ -37,8 +37,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Stuff one </h3>
-                    <p>JavaScript,React,HTML,CSS</p>
+                    <h3>Some Tech </h3>
+                    <p>Nam et libero a tellus vulputate egestas. Morbi dignissim, mauris eget consectetur scelerisque, mi justo tincidunt nulla, id tempus massa tellus vel eros. Cras ex eros, ullamcorper ac porta sed, porta sit amet nunc. Pellentesque pellentesque euismod magna quis aliquet. Quisque placerat venenatis diam, vitae placerat augue mattis vel. Proin tincidunt orci felis, a vehicula metus pretium non. Aliquam erat volutpat. In luctus, dui scelerisque congue pretium, massa ligula vehicula ante, eu interdum odio mauris ac quam. Sed a laoreet justo, eget elementum nisl. Curabitur at porta arcu, sed aliquam mauris. Aenean ornare sapien quis ipsum ultricies egestas. Donec nec aliquam nisi, vitae elementum augue.</p>
                 </div>
                 </div>
             </div>
@@ -49,7 +49,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Science</h3>
-                    <p>SCIENCE!!!</p>
+                    <p>Nam et libero a tellus vulputate egestas. Morbi dignissim, mauris eget consectetur scelerisque, mi justo tincidunt nulla, id tempus massa tellus vel eros. Cras ex eros, ullamcorper ac porta sed, porta sit amet nunc. Pellentesque pellentesque euismod magna quis aliquet. Quisque placerat venenatis diam, vitae placerat augue mattis vel. Proin tincidunt orci felis, a vehicula metus pretium non. Aliquam erat volutpat. In luctus, dui scelerisque congue pretium, massa ligula vehicula ante, eu interdum odio mauris ac quam. Sed a laoreet justo, eget elementum nisl. Curabitur at porta arcu, sed aliquam mauris. Aenean ornare sapien quis ipsum ultricies egestas. Donec nec aliquam nisi, vitae elementum augue.</p>
                 </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Other Stuff</h3>
-                    <p>MORE MORE MORE</p>
+                    <p>Nam et libero a tellus vulputate egestas. Morbi dignissim, mauris eget consectetur scelerisque, mi justo tincidunt nulla, id tempus massa tellus vel eros. Cras ex eros, ullamcorper ac porta sed, porta sit amet nunc. Pellentesque pellentesque euismod magna quis aliquet. Quisque placerat venenatis diam, vitae placerat augue mattis vel. Proin tincidunt orci felis, a vehicula metus pretium non. Aliquam erat volutpat. In luctus, dui scelerisque congue pretium, massa ligula vehicula ante, eu interdum odio mauris ac quam. Sed a laoreet justo, eget elementum nisl. Curabitur at porta arcu, sed aliquam mauris. Aenean ornare sapien quis ipsum ultricies egestas. Donec nec aliquam nisi, vitae elementum augue.</p>
                 </div>
                 </div>
             </div>
